@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: trial
+pool: self-hosted-pool
 
 steps:
 - task: Maven@3
